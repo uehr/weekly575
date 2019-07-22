@@ -1,0 +1,109 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "github.com/ChimeraCoder/anaconda",
+			"revision": ""
+		},
+		{
+			"path": "github.com/ChimeraCoder/tokenbucket",
+			"revision": ""
+		},
+		{
+			"path": "github.com/azr/backoff",
+			"revision": ""
+		},
+		{
+			"path": "github.com/dustin/go-jsonpointer",
+			"revision": ""
+		},
+		{
+			"path": "github.com/dustin/gojson",
+			"revision": ""
+		},
+		{
+			"path": "github.com/garyburd/go-oauth/oauth",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "42lbww83AU9QaNXUojQtOwdj1Gc=",
+			"path": "github.com/ikawaha/kagome/internal/da",
+			"revision": "2e8787ca9175bd8bcf7cd21070c9c03c55923709",
+			"revisionTime": "2019-06-04T08:07:42Z"
+		},
+		{
+			"checksumSHA1": "JRYhWRcC46qQzwGV7qzEL+tgkIU=",
+			"path": "github.com/ikawaha/kagome/internal/dic",
+			"revision": "2e8787ca9175bd8bcf7cd21070c9c03c55923709",
+			"revisionTime": "2019-06-04T08:07:42Z"
+		},
+		{
+			"checksumSHA1": "boZy/b+7p9PFTy3r9AlTzHmkjjk=",
+			"path": "github.com/ikawaha/kagome/internal/dic/data",
+			"revision": "2e8787ca9175bd8bcf7cd21070c9c03c55923709",
+			"revisionTime": "2019-06-04T08:07:42Z"
+		},
+		{
+			"checksumSHA1": "m47EgNOwXGwWQCCMXX5vr8K4Xx4=",
+			"path": "github.com/ikawaha/kagome/internal/lattice",
+			"revision": "2e8787ca9175bd8bcf7cd21070c9c03c55923709",
+			"revisionTime": "2019-06-04T08:07:42Z"
+		},
+		{
+			"checksumSHA1": "+wfIRj6PDpdhAlrf9CJoR/Doh5M=",
+			"path": "github.com/ikawaha/kagome/tokenizer",
+			"revision": "2e8787ca9175bd8bcf7cd21070c9c03c55923709",
+			"revisionTime": "2019-06-04T08:07:42Z"
+		},
+		{
+			"checksumSHA1": "YzIVWHj5vDlCp3A8Zy0vhCn4zZ0=",
+			"path": "github.com/jinzhu/gorm",
+			"revision": "836fb2c19d84dac7b0272958dfb9af7cf0d0ade4",
+			"revisionTime": "2019-06-30T07:50:19Z"
+		},
+		{
+			"checksumSHA1": "iqeSAF7imnVsW+iqLqf6kkYn1VU=",
+			"path": "github.com/jinzhu/inflection",
+			"revision": "f5c5f50e6090ae76a29240b61ae2a90dd810112e",
+			"revisionTime": "2019-06-03T04:28:36Z"
+		},
+		{
+			"checksumSHA1": "OBxx2YLHHcK3qJNADNLQs0tY8vc=",
+			"path": "github.com/lib/pq",
+			"revision": "3427c32cb71afc948325f299f040e53c1dd78979",
+			"revisionTime": "2019-07-16T17:26:55Z"
+		},
+		{
+			"checksumSHA1": "AU3fA8Sm33Vj9PBoRPSeYfxLRuE=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "3427c32cb71afc948325f299f040e53c1dd78979",
+			"revisionTime": "2019-07-16T17:26:55Z"
+		},
+		{
+			"checksumSHA1": "3OonTK1mBkRfbFsQPuSLcACph7I=",
+			"path": "github.com/lib/pq/scram",
+			"revision": "3427c32cb71afc948325f299f040e53c1dd78979",
+			"revisionTime": "2019-07-16T17:26:55Z"
+		},
+		{
+			"checksumSHA1": "8ONAcE1pT1hyVMgttdxZUJVestE=",
+			"path": "github.com/mattn/go-haiku",
+			"revision": "d522829740d36ce6033b16c4d0f8edc8d67fcf69",
+			"revisionTime": "2017-12-05T10:37:58Z"
+		},
+		{
+			"checksumSHA1": "c4K+xR8x9M38CsC64jmFptMjN4g=",
+			"path": "github.com/robfig/cron",
+			"revision": "61d93e07d1be270591d43ede700aa3ae69a2326f",
+			"revisionTime": "2019-06-16T12:43:56Z"
+		},
+		{
+			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
+			"path": "golang.org/x/net/context",
+			"revision": "da137c7871d730100384dbcf36e6f8fa493aef5b",
+			"revisionTime": "2019-06-28T18:40:41Z"
+		}
+	],
+	"rootPath": "github.com/uehr/weekly575"
+}
